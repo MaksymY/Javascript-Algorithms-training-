@@ -1,3 +1,5 @@
+/* This Algorithms made from word cut out from a magazin harmless ransom no */
+
 function harmlessRansomNote(noteText, noteMagazin){
     var magazinArray = noteMagazin.split(' ');
     var textArray = noteText.split(' ');
