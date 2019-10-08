@@ -6,4 +6,4 @@ function fizzBuzz(num){
       else console.log(i);
     }
   }
-  fizzBuzz(20)
+  fizzBuzz(20);
